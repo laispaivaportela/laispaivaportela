@@ -45,7 +45,7 @@ Atualmente estou estudando Java na Universidade e tenho interesse em iniciar meu
 </div>
 
 ### 🔗 Links
-- [LinkedIn](www.linkedin.com/in/laisportela/)
+- [LinkedIn](www.linkedin.com/in/laisportela)
 - [Instagram](https://www.instagram.com/lais.portela/)
           
 <!---

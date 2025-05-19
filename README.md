@@ -17,37 +17,30 @@ Atualmente estou estudando Java na Universidade e tenho interesse em iniciar meu
 - 🌊 Fun fact: I'm from Bahia and I love the beach
 <br>
 
-### 🤖 Tecnologias
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-  />
-  <br><br><br>
-
 ### 🤓 Estatísticas 
 
   <img 
+    align="left"
     alt="laispaivaportela's GitHub stats" 
     height="145" 
     src="https://github-readme-stats.vercel.app/api?username=laispaivaportela&show_icons=true&theme=solarized-light" 
   />
-</div>
+
  <img 
+    align="center"
     alt="laispaivaportela's Top Langs" 
-    height="130" 
+    height="145" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=laispaivaportela&theme=solarized-light&layout=compact&custom_title=Tecnologias" 
   />
 </div>
 
-### 🔗 Links
-- [LinkedIn](www.linkedin.com/in/laisportela)
-- [Instagram](https://www.instagram.com/lais.portela/)
-          
+<br><br>
+### 🔗 Redes Sociais
+[![Instagram](https://img.shields.io/badge/Instagram-@laispaivaportela-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/laispaivaportela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@laispaivaportela-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laispaivaportela)
+[![Discord](https://img.shields.io/badge/Discord-laiportela-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-laisportela08@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:laisportela08@gmail.com)
+
 <!---
 laispaivaportela/laispaivaportela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -36,7 +36,7 @@ Atualmente estou estudando Java na Universidade e tenho interesse em iniciar meu
 
 <br><br>
 ### 🔗 Redes Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-@laispaivaportela-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/laispaivaportela)
+[![Instagram](https://img.shields.io/badge/Instagram-@laispaivaportela-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/lais.portela)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@laispaivaportela-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laispaivaportela)
 [![Discord](https://img.shields.io/badge/Discord-laiportela-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-laisportela08@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:laisportela08@gmail.com)
